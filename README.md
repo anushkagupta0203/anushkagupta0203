@@ -15,8 +15,8 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/anushkagupta23" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="anushkagupta0203@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail" alt="Gmail"/></a>
 </p>
 
 ---

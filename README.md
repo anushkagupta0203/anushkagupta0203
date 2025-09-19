@@ -1,6 +1,5 @@
 <h1 align="center">Anushka Gupta</h1>
-<h3 align="center">Data Analyst | AI/ML Engineer | Aspiring Data Scientist</h3>
-
+<h3 align="center">Data Analyst | AI/ML Engineer
 ---
 
 

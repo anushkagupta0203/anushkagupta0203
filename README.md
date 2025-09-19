@@ -7,7 +7,7 @@
 
 🛠️ Projects include:
 
-Customer Churn Prediction – ML classification model with 85% accuracy
+Adidas Sales Prediction – ML classification model with 99% accuracy
 
 Airbnb NYC Dashboard – Tableau visualization of 50k+ listings with filters and insights
 

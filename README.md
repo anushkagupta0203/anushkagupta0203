@@ -1,12 +1,21 @@
 <h1 align="center">Anushka Gupta</h1>
-<h3 align="center">Data Analyst | AI/ML Engineer
----
+<p align="center">Skilled in Python, SQL, and Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
 
+🤖 Experienced in Machine Learning & AI using scikit-learn, TensorFlow, Keras, and OpenCV
 
-- Passionate about turning raw data into meaningful insights
-- Currently diving deeper into Machine Learning and AI projects
-- Skilled in creating powerful dashboards and data visualizations
-- Open to collaborations in Data Analysis, ML Projects, and Research
+📊 Strong in EDA, predictive modeling, statistical analysis, and business intelligence dashboards
+
+🛠️ Projects include:
+
+Customer Churn Prediction – ML classification model with 85% accuracy
+
+Airbnb NYC Dashboard – Tableau visualization of 50k+ listings with filters and insights
+
+YouTube Engagement Analysis – Python-based EDA of user interaction patterns
+
+🔍 Focused on end-to-end workflows: from data cleaning & preprocessing to model deployment and visualization
+
+🚀 Open to collaborations on data science, ML/AI research, and analytics projects</p>
 
 
 ---

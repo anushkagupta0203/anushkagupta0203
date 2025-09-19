@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
+<h1 align="center">Anushka Gupta</h1>
 <h3 align="center">Data Analyst | AI/ML Engineer | Aspiring Data Scientist</h3>
 
 ---
 
 ## 👩‍💻 About Me:
 
-- 🔍 Passionate about turning raw data into meaningful insights
-- 🧠 Currently diving deeper into Machine Learning and AI projects
-- 📊 Skilled in creating powerful dashboards and data visualizations
-- 🤝 Open to collaborations in Data Analysis, ML Projects, and Research
-- 📝 Always curious, always learning
+- Passionate about turning raw data into meaningful insights
+- Currently diving deeper into Machine Learning and AI projects
+- Skilled in creating powerful dashboards and data visualizations
+- Open to collaborations in Data Analysis, ML Projects, and Research
+
 
 ---
 

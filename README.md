@@ -3,7 +3,6 @@
 
 ---
 
-## About Me:
 
 - Passionate about turning raw data into meaningful insights
 - Currently diving deeper into Machine Learning and AI projects
@@ -14,9 +13,8 @@
 ---
 
 ## Connect:
-<p align="left">
-  <a href="https://linkedin.com/in/anushkagupta23" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-</p>
+<a href="https://linkedin.com/in/anushkagupta23" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+
 
 ---
 
